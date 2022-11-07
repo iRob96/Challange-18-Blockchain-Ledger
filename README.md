@@ -21,3 +21,17 @@ Build a blockchain-based ledger system, complete with a user-friendly web interf
 
 <img width="1440" alt="Screen Shot 2022-11-06 at 10 02 11 PM" src="https://user-images.githubusercontent.com/107821891/200218893-400a5d59-882a-45a0-9459-8e71b9b46e4f.png">
 <img width="1440" alt="Screen Shot 2022-11-06 at 10 03 44 PM" src="https://user-images.githubusercontent.com/107821891/200218899-eb70d0e2-7293-40d4-a086-dbff3de8ca03.png">
+
+---
+#Tech Used
+Python
+VS Code
+
+---
+#Python Libraries
+streamlit
+dataclasses
+typing
+datetime
+pandas
+hashlib
